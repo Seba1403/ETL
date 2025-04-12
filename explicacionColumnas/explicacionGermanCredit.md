@@ -1,0 +1,10 @@
+Variable	Significado en Español
+Age	Edad (numérica)
+Sex	Sexo (texto: male = hombre, female = mujer)
+Job	Tipo de trabajo (0 = no calificado y no residente, 1 = no calificado residente, 2 = calificado, 3 = altamente calificado)
+Housing	Tipo de vivienda (texto: propia, arrendada o gratuita)
+Saving accounts	Cuenta de ahorro (texto: poca, moderada, bastante rica, rica)
+Checking account	Cuenta corriente (numérico, en Marcos Alemanes - DM)
+Credit amount	Monto del crédito (numérico, en DM)
+Duration	Duración del crédito (numérico, en meses)
+Purpose	Propósito del préstamo (texto: auto, muebles/equipos, radio/TV, electrodomésticos, reparaciones, educación, negocios, vacaciones/otros)
