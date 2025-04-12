@@ -1,10 +1,11 @@
-Variable	Significado en Español
-Age	Edad (numérica)
-Sex	Sexo (texto: male = hombre, female = mujer)
-Job	Tipo de trabajo (0 = no calificado y no residente, 1 = no calificado residente, 2 = calificado, 3 = altamente calificado)
-Housing	Tipo de vivienda (texto: propia, arrendada o gratuita)
-Saving accounts	Cuenta de ahorro (texto: poca, moderada, bastante rica, rica)
-Checking account	Cuenta corriente (numérico, en Marcos Alemanes - DM)
-Credit amount	Monto del crédito (numérico, en DM)
-Duration	Duración del crédito (numérico, en meses)
-Purpose	Propósito del préstamo (texto: auto, muebles/equipos, radio/TV, electrodomésticos, reparaciones, educación, negocios, vacaciones/otros)
+| Variable           | Descripción en Español                                                                 |
+|--------------------|-----------------------------------------------------------------------------------------|
+| `Age`              | Edad del solicitante (dato numérico)                                                   |
+| `Sex`              | Sexo del solicitante (`male` = hombre, `female` = mujer)                               |
+| `Job`              | Tipo de trabajo (0 = no calificado y no residente, 1 = no calificado residente, 2 = calificado, 3 = altamente calificado) |
+| `Housing`          | Tipo de vivienda (`own` = propia, `rent` = arrendada, `free` = sin costo)              |
+| `Saving accounts`  | Nivel de ahorro declarado (`little`, `moderate`, `quite rich`, `rich`)                 |
+| `Checking account` | Saldo de la cuenta corriente (dato numérico, expresado en Marcos Alemanes - DM)        |
+| `Credit amount`    | Monto total del crédito solicitado (en DM)                                             |
+| `Duration`         | Duración del crédito en meses                                                          |
+| `Purpose`          | Finalidad del crédito (ej. automóvil, muebles, electrodomésticos, negocios, educación, etc.) |
